@@ -1,0 +1,6 @@
+name = ("John Smith")
+age = ("20 years old")
+patient_status = ("New Patient")
+print(name)
+print(age)
+print(patient_status)
